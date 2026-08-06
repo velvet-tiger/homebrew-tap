@@ -1,0 +1,4 @@
+# macOS and JetBrains noise. Ignored here rather than only in a personal global
+# ignore file, because contributors to a public repo do not share that file.
+.DS_Store
+.idea/

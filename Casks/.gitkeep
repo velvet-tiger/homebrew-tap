@@ -1,0 +1,3 @@
+# Casks are written here by GoReleaser on a tag push in each source repository.
+# This file keeps the directory present in a fresh clone, before the first
+# release has run. It can be deleted once a cask exists.
